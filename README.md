@@ -23,6 +23,13 @@ The analysis was delivered through an interactive **Power BI dashboard** support
 
 ---
 
+## Data Modeling Approach
+- SQL was used for data validation, aggregation, ranking, and trend analysis.
+- Power BI was used for semantic modeling, DAX measures, and visualization.
+- Business logic was intentionally split to mirror real-world BI architecture.
+  
+---
+
 ## 🛠 Tools & Technologies
 - **Power BI** – Dashboarding & DAX measures  
 - **SQL (MySQL / PostgreSQL compatible)** – Data validation & aggregation  
