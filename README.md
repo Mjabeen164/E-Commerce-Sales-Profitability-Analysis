@@ -83,6 +83,6 @@ The analysis was delivered through an interactive **Power BI dashboard** support
 ## 👤 Author
 **Munawer Jabeen**  
 Data Analyst | Power BI | SQL  
-🔗 LinkedIn: *(add link)*  
-📧 Email: *(optional)*
+🔗 LinkedIn: *www.linkedin.com/in/munawer-jabeen-900811380*
+📧 Email: *munawerjabeen703@gmail.com*
 
